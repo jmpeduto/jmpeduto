@@ -8,6 +8,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jmpeduto&show_icons=true&theme=dark&include_all_commits=true&include_all_prs=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jmpeduto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-activity-graph.cyclic.app/graph?username=jmpeduto&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmpeduto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
